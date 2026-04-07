@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("new change to demo webhook");
+        System.out.println("testing pipeline for webhook demo");
     }
 
     public String getMessage() {
